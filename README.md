@@ -22,6 +22,7 @@ gsettings set org.gnome.Vino require-encryption false
 
 ##  Ubuntu xrdp     
 
+Issues with xRDP and Ubuntu 18.04.2 – How to fix it     
 
 https://c-nergy.be/blog/?p=13390   
 

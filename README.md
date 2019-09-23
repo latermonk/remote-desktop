@@ -23,4 +23,20 @@ gsettings set org.gnome.Vino require-encryption false
 ##  Ubuntu xrdp     
 
 
+https://c-nergy.be/blog/?p=13390   
+
+```
+
+apt-get install xserver-xorg-core    
+
+apt-get -y install xserver-xorg-input-all    
+
+apt-get install xrdp
+
+```   
+
+
+
+
+
 
